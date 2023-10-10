@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hello, my name is Zach Peterson. I am studying computer science at BYU-I. I am an aspiring software engineer.
+
+I am interested in backend and mobile devolopement. I love programming and learning new things. I love learning about new languages and how things work under the hood.
+
+Skills: <br>
+Python | Swift | Erlang | Java | C++
+
+I'm currently learning: <br>
+Rust | OCaml | Go
 <!--
 **zachpeterson13/zachpeterson13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
