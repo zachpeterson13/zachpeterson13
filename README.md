@@ -8,7 +8,7 @@ Skills: <br>
 Python | Swift | Erlang | Java | C++
 
 I'm currently learning: <br>
-Rust | OCaml | Go
+Rust | Elixir
 <!--
 **zachpeterson13/zachpeterson13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
